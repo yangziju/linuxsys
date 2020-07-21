@@ -1,4 +1,4 @@
-/* 多进程版回射服务器 */
+/* 多进程版并发回射服务器 */
 
 #include <stdio.h>
 #include <string.h>
